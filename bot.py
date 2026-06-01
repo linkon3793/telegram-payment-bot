@@ -1,1 +1,1 @@
-print("Bot setup started")
+
